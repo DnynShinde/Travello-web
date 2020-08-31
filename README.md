@@ -8,6 +8,7 @@
 1. Install Djnago framework on your machine
 2. Create an virtual environment
 3. Navigate to directory that contains program file
+
 **Run Server**
 ````python 
     python manage.py runserver
