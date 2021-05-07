@@ -1,5 +1,8 @@
 # Travello-web
-
+### For administrator
+The application provides functionality such as dynamically adding or removing destination point, manages special offer and travelling expenses.
+### For User
+An application shows available destination point with a special offer and travelling expenses.
 ## Requirements
 1. Django python framework
 2. PostgreSQL Database
@@ -13,3 +16,4 @@
 ````python 
     python manage.py runserver
 ````
+ 
